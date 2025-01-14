@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gulam Mohd Niyazi - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Gulam Mohd Niyazi</h1>
+            <p>Seasonal Job Employee at Amazon | Aspiring Professional</p>
+            <p>Email: uubca2021gmniyazi@gmail.com | Phone: 9555291496</p>
+        </div>
+    </header>
+
+    <!-- About Me Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>As a seasonal job employee at Amazon, I am seeking a role that allows me to continue learning beyond my current contractual period, furthering my knowledge and refining my skills. I aim to contribute high-quality work, and I believe this role will encourage me to grow and succeed in my future endeavors.</p>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>Teamwork</li>
+                <li>Time Management</li>
+                <li>Communication</li>
+                <li>Problem Solving</li>
+                <li>Adaptability</li>
+                <!-- Add any technical skills here -->
+            </ul>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience">
+        <div class="container">
+            <h2>Experience</h2>
+            <h3>Seasonal Job Employee - Amazon</h3>
+            <p>Duration: [Start Date] – [End Date]</p>
+            <ul>
+                <li>Performed [specific task or responsibility]</li>
+                <li>Handled [another task or responsibility]</li>
+            </ul>
+            <p>Achievements:</p>
+            <ul>
+                <li>Improved [specific outcome or metric]</li>
+                <li>Successfully managed [another achievement]</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+        <div class="container">
+            <h2>Education</h2>
+            <h3>[Your Degree]</h3>
+            <p>[University Name]</p>
+            <p>Graduation Year: [Year]</p>
+            <p>Relevant Coursework: [Optional]</p>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <h3>[Project Title]</h3>
+            <p>Description of the project and its outcomes.</p>
+            <!-- Add more projects as necessary -->
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: uubca2021gmniyazi@gmail.com</p>
+            <p>Phone: 9555291496</p>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Gulam Mohd Niyazi. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
